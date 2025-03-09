@@ -25,5 +25,8 @@ Here are some of my skills that I use at my job and at my personal projects!
 
 You can find me here:
 
-![instagram]({https://www.instagram.com/nands_v_/?next=%2F}) 
-![linkedin]({https://www.linkedin.com/in/fernando-veras-331206174/})
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nands_v_/?next=%2F)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-veras-331206174/)
+[![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12183260606?si=3ec4ce40bbd247ee)
+[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@nandelicia)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=nandogomesveras@gmail.com)
