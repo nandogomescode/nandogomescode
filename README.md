@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm currently working as a Software Developer at [Sispro](https://github.com/SISPROV6), evolving my skills and learning every day! Here you can find some of my personal projects and can find me! Please, feel free to contact me for some more details about my skills, experiences and goals. 
 
-Here are some of my skills that I use at my job and at my personal projects! 
+Here are some of the skills that I use at my job and at my personal projects! 
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,typescript,java,cs,bootstrap,angular,vscode,visualstudio,npm,git,github)](https://skillicons.dev)
