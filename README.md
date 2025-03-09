@@ -31,4 +31,8 @@ You can find me here:
 [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@nandelicia)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=nandogomesveras@gmail.com)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?nandogomescode=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<div align="left">
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandogomescode&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
+  
+ </div>
