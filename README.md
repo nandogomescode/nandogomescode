@@ -25,5 +25,5 @@ Here are some of my skills that I use at my job and at my personal projects!
 
 You can find me here:
 
-[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://www.instagram.com/nands_v_/?next=%2F) 
-[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/fernando-veras-331206174/)
+![https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white]({https://www.instagram.com/nands_v_/?next=%2F}) 
+![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white]({https://www.linkedin.com/in/fernando-veras-331206174/})
