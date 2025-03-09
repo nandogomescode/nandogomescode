@@ -30,3 +30,5 @@ You can find me here:
 [![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12183260606?si=3ec4ce40bbd247ee)
 [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@nandelicia)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=nandogomesveras@gmail.com)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?nandogomescode=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
