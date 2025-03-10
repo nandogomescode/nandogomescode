@@ -20,7 +20,7 @@ I'm currently working as a Software Developer at [Sispro](https://github.com/SIS
 Here are some of the skills that I use at my job and at my personal projects! 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,typescript,java,cs,bootstrap,angular,vscode,visualstudio,npm,git,github,intellij)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,typescript,java,cs,bootstrap,angular,vscode,visualstudio,npm,git,github,ij)](https://skillicons.dev)
 
 
 You can find me here:
